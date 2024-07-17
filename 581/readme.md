@@ -35,5 +35,5 @@ while (j < nums.size() - 1 && nums[j + 1] < maxn) j++;
 return j - i + 1;
 ```
 ## 复杂度
-- 时间复杂度 $O(n)$\
+- 时间复杂度 $O(n)$
 - 空间复杂度 $O(1)$
