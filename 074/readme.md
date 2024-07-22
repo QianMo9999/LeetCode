@@ -1,8 +1,6 @@
 
 > Problem: [LCR 074. 合并区间](https://leetcode.cn/problems/SsGoHC/description/)
 
-[TOC]
-
 # 复杂度
 
 - 时间复杂度: $O(nlogn)$
